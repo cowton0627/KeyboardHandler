@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9126032D2A96F2D1000229D9 /* KeyboardHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9126032C2A96F2D1000229D9 /* KeyboardHandler.swift */; };
+		9126032F2A96F301000229D9 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9126032E2A96F301000229D9 /* Box.swift */; };
 		915DE88E2A96F05600E90778 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915DE88D2A96F05600E90778 /* AppDelegate.swift */; };
 		915DE8902A96F05600E90778 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915DE88F2A96F05600E90778 /* SceneDelegate.swift */; };
 		915DE8922A96F05600E90778 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 915DE8912A96F05600E90778 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9126032C2A96F2D1000229D9 /* KeyboardHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardHandler.swift; sourceTree = "<group>"; };
+		9126032E2A96F301000229D9 /* Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
 		915DE88A2A96F05600E90778 /* KeyboardHandler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeyboardHandler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		915DE88D2A96F05600E90778 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		915DE88F2A96F05600E90778 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,7 +63,9 @@
 				915DE88D2A96F05600E90778 /* AppDelegate.swift */,
 				915DE88F2A96F05600E90778 /* SceneDelegate.swift */,
 				915DE8912A96F05600E90778 /* ViewController.swift */,
+				9126032C2A96F2D1000229D9 /* KeyboardHandler.swift */,
 				915DE8932A96F05600E90778 /* Main.storyboard */,
+				9126032E2A96F301000229D9 /* Box.swift */,
 				915DE8962A96F05700E90778 /* Assets.xcassets */,
 				915DE8982A96F05700E90778 /* LaunchScreen.storyboard */,
 				915DE89B2A96F05700E90778 /* Info.plist */,
@@ -141,6 +147,8 @@
 				915DE8922A96F05600E90778 /* ViewController.swift in Sources */,
 				915DE88E2A96F05600E90778 /* AppDelegate.swift in Sources */,
 				915DE8902A96F05600E90778 /* SceneDelegate.swift in Sources */,
+				9126032D2A96F2D1000229D9 /* KeyboardHandler.swift in Sources */,
+				9126032F2A96F301000229D9 /* Box.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
